@@ -2,7 +2,7 @@
 
 Pacman
 
-#Description:
+# Description:
 
 The goal of this project was to move images around the screen, changing direction when hitting screen edges.
 
